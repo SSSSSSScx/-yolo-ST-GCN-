@@ -1,0 +1,9 @@
+cameras:
+- id: cam-main
+  name: 主摄像头
+  type: usb
+  device: '0'
+  resolution:
+  - 1280
+  - 720
+  fps: 30
