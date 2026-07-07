@@ -1,0 +1,19 @@
+O01:
+  enabled: false
+  description: 烟雾检测
+  class: smoke
+  consecutive_frames: 3
+  threshold: 0.5
+  level: 3
+O02:
+  enabled: false
+  description: 火焰检测
+  class: fire
+  threshold: 0.5
+  level: 3
+O03:
+  enabled: true
+  description: 人员倒地检测
+  class: person_down
+  threshold: 0.7
+  level: 3

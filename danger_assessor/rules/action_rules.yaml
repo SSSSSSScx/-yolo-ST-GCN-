@@ -1,0 +1,25 @@
+A01:
+  enabled: true
+  description: 饮食动作检测
+  action: 饮食动作
+  level: 2
+A02:
+  enabled: true
+  description: 推搡嬉闹检测
+  action: 推搡嬉闹
+  level: 1
+A03:
+  enabled: true
+  description: 奔跑检测
+  action: 奔跑
+  level: 1
+A04:
+  enabled: true
+  description: 抽烟检测
+  action: 抽烟
+  level: 2
+A05:
+  enabled: true
+  description: 摔倒检测
+  action: 摔倒
+  level: 3
